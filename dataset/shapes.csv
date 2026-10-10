@@ -1,0 +1,15 @@
+#,Color,Outline,Dot,Shape
+1,green,dashed,no,triange
+2,green,dashed,yes,triange
+3,yellow,dashed,no,square
+4,red,dashed,no,square
+5,red,solid,no,square
+6,red,solid,yes,triange
+7,green,solid,no,square
+8,green,dashed,no,triange
+9,yellow,solid,yes,square
+10,red,solid,no,square
+11,green,solid,yes,square
+12,yellow,dashed,yes,square
+13,yellow,solid,no,square
+14,red,dashed,yes,triange
